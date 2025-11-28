@@ -1,9 +1,9 @@
-# Ujaan Chatterjee — Data Scientist in Training · `ujaan-chatterjee`
+Ujaan Chatterjee — AI Trailblazer in Training · `ujaan-chatterjee`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ujaan-chatterjee) [![Email](https://img.shields.io/badge/Email-ujaan.chatterjee@example.com-important)](mailto:ujaan.chatterjee@example.com)
-[![TOEFL](https://img.shields.io/badge/TOEFL-108-green)]() [![GRE](https://img.shields.io/badge/GRE-327-9cf)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ujaan-chatterjee) [![Email](https://img.shields.io/badge/Email-.com-important)]itsujaanchatterjee@gmail.com(mailto:itsujaanchatterjee@gmail.com)
+[![TOEFL](https://img.shields.io/badge/TOEFL-106-green)]() [![GRE](https://img.shields.io/badge/GRE-325-9cf)]()
 
-> Hi — I’m **Ujaan**. I build data-driven solutions that bridge business sense with machine learning. Currently final-year BBA (Information Technology) student at **Lovely Professional University (LPU)** — Dean’s List, top 5% of cohort — and preparing for a 15-month MS in Machine Learning & Data Science.
+> Hello there, This is **Ujaan**. I build data-driven solutions that bridge business sense with machine learning. Currently final-year Bachelor of Business Administration (Information Technology) student at **Mittal School of Business, Lovely Professional University (LPU)** — Dean’s List, topper of my cohort, and top 5% in the university, preparing for a top-tier quant-heavy and data-focused STEM grad program in the United States.
 > This profile showcases the projects, experiments, and learning artifacts that demonstrate my technical growth and product thinking.
 
 🔭 Quick facts
@@ -86,15 +86,15 @@ python src/train.py --config configs/default.yaml
 🤝 Collaborate / Hire / Mentor
 
 * Open to: short-term collaborations, mentorship, research assistance, and internship-level contributions.
-* If you’re a recruiter or researcher: DM on LinkedIn or email me: **[ujaan.chatterjee@example.com](mailto:ujaan.chatterjee@example.com)**. (Replace placeholder with your preferred contact.)
+* If you’re a recruiter or researcher: DM on LinkedIn or email me: **[itsujaanchatterjee@gmail.com](mailto:itsujaanchatterjee.com)**.
 
 🧾 CV & Media
 
-* Resume & transcript highlights are available on request — happy to share a tailored one-pager when connecting.
+* Resume & transcript highlights are available on request — happy to share a tailored two-pager when connecting.
 
 🧰 Contribution & code of conduct
 
-* Contributions are welcome! If you want to contribute to a repo:
+* Contributions are welcome! If you'd like to contribute to a repo:
 
   1. Fork → branch → PR with clear description.
   2. Keep changes targeted and add tests where relevant.
@@ -108,8 +108,6 @@ python src/train.py --config configs/default.yaml
 
 ✨ Final note
 
-I build with the pragmatic goal: **turn data into decisions**. This GitHub is the public record of that work — reproducible notebooks, clear writeups, and a focus on business impact. If anything here helps you learn, build, or ship — ping me.
+I build with the pragmatic goal: **turn data into meaningful and impactful decisions**. This GitHub is the public record of that work — reproducible notebooks, clear writeups, and a focus on business impact. If anything here helps you learn, build, or ship — ping me.
 
-— Ujaan Chatterjee (ujaan-chatterjee)
-
----
+— Ujaan S Chatterjee (ujaan-chatterjee)
