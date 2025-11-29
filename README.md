@@ -39,7 +39,7 @@ This profile showcases the projects, experiments, and learning artifacts that de
 | [**stock-forecasting**](https://github.com/ujaan-chatterjee/stock-forecasting) | Time-series prediction of stock price movements & short-term returns | Python · pandas · scikit-learn · ARIMA/Prophet · Tableau dashboards · Improved baseline performance |
 | [**titanic-analysis**](https://github.com/ujaan-chatterjee/titanic-analysis) | End-to-end ML classification: EDA → feature engineering → interpretable model | Python · scikit-learn · XGBoost · SHAP explainability |
 | [**ai-in-healthcare-survey**](https://github.com/ujaan-chatterjee/ai-in-healthcare-survey) | Research project combining survey data + regression analysis for actionable insights | Python · pandas · statsmodels · SPSS |
-| [**mlds-prep-projects**](https://github.com/ujaan-chatterjee/mlds-prep-projects) | Structured MS MLDS preparation: roadmap, starter projects, datasets | Roadmap · Jupyter notebooks · reproducible workflows |
+| [**sentiment-twitter-dashboard**](https://github.com/ujaan-chatterjee/sentiment-twitter-dashboard) | Real-time NLP sentiment analysis dashboard for Twitter with BERT transformers and interactive visualization | Python · NLTK · Transformers/BERT · Streamlit · Plotly · Data wrangling · Ethical AI |Jupyter notebooks · reproducible workflows |
 
 ---
 
