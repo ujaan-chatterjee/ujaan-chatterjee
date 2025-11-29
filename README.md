@@ -1,113 +1,152 @@
-Ujaan Chatterjee — AI Trailblazer in Training · `ujaan-chatterjee`
+# Ujaan Chatterjee — AI Trailblazer in Training
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ujaan-chatterjee) [![Email](https://img.shields.io/badge/Email-.com-important)]itsujaanchatterjee@gmail.com(mailto:itsujaanchatterjee@gmail.com)
-[![TOEFL](https://img.shields.io/badge/TOEFL-106-green)]() [![GRE](https://img.shields.io/badge/GRE-325-9cf)]()
+<div align="center">
 
-> Hello there, This is **Ujaan**. I build data-driven solutions that bridge business sense with machine learning. Currently final-year Bachelor of Business Administration (Information Technology) student at **Mittal School of Business, Lovely Professional University (LPU)** — Dean’s List, topper of my cohort, and top 5% in the university, preparing for a top-tier quant-heavy and data-focused STEM grad program in the United States.
-> This profile showcases the projects, experiments, and learning artifacts that demonstrate my technical growth and product thinking.
+**Data-Driven Problem Solver | ML & Analytics Enthusiast | Dean's List Scholar**
 
-🔭 Quick facts
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujaan-chatterjee)
+[![Email](https://img.shields.io/badge/Email-itsujaanchatterjee@gmail.com-important)](mailto:itsujaanchatterjee@gmail.com)
+[![TOEFL](https://img.shields.io/badge/TOEFL-106-brightgreen)](https://github.com/ujaan-chatterjee/ujaan-chatterjee)
+[![GRE](https://img.shields.io/badge/GRE-325-blue)](https://github.com/ujaan-chatterjee/ujaan-chatterjee)
 
-* 🎓 **BBA (Information Technology)** — Mittal School of Business, Lovely Professional University (LPU) — **CGPA: 9.18/10** (projecting 9.4–9.5 at graduation) — *Top 5% · Dean’s List*
-* 💼 **Work experience:** Times of India — Management Intern (analytics & market research); Community Tutor (education outreach)
-* 🧠 **Core interests:** Time-series forecasting · Applied NLP · MLOps · Business analytics · Causal inference · Responsible AI
-* 🛠️ **Primary tools:** Python (pandas, NumPy, scikit-learn), Jupyter, SQL, Tableau / Power BI, Git, basic PyTorch / TensorFlow exposure
-* 📚 **Certifications:** Multiple Python & analytics specializations (Coursera/other)
-* 🏆 **Communication:** Public speaking, essay & storytelling competition winner; strong written & verbal skills (TOEFL: 108)
+</div>
 
-📌 Featured repositories
+---
 
+## 👋 About Me
 
-| Project                                                                                |                                                                                                             What it is | Tech & impact                                                                                                                                                              |
-| -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [stock-forecasting](https://github.com/ujaan-chatterjee/stock-forecasting)             |                                                   Forecasting price movement & short-term returns for selected stocks. | Python, pandas, scikit-learn, time-series methods (ARIMA / Prophet / baseline ML), Tableau/Power BI dashboards. Demonstrated improved forecasting performance vs baseline. |
-| [titanic-analysis](https://github.com/ujaan-chatterjee/titanic-analysis)               |                                    End-to-end classification project: EDA → feature engineering → interpretable model. | Python, sklearn, XGBoost, EDA visualizations, model explainability with SHAP, clear README for reproducibility.                                                            |
-| [ai-in-healthcare-survey](https://github.com/ujaan-chatterjee/ai-in-healthcare-survey) | Research-methodology project that combined survey data with regression analysis to produce actionable recommendations. | Python, pandas, statsmodels, SPSS (analysis pipeline documented), reproducible notebooks and clear business takeaways.                                                     |
-| [mlds-prep-projects](https://github.com/ujaan-chatterjee/mlds-prep-projects)           |                                  Roadmap & incremental projects for MS MLDS prep: skeletons, datasets, and milestones. | Roadmap, TODOs, small starter notebooks for rapid iteration.                                                                                                               |
+I build **data-driven solutions** that bridge business sense with machine learning. Currently a final-year **BBA (Information Technology)** student at **Mittal School of Business, Lovely Professional University (LPU)** — Dean's List, topper of my cohort, and top 5% in the university. Preparing for a top-tier quant-heavy STEM grad program in the United States.
 
-> If you want to run the notebooks locally, see the **How to run** section below.
+This profile showcases the projects, experiments, and learning artifacts that demonstrate my technical growth and product thinking.
 
-🧭 My technical skill map
+---
+
+## 🔍 Quick Facts
+
+- 🎓 **Education:** BBA (IT) — **Lovely Professional University** | CGPA: **9.18/10** (projecting 9.4–9.5) | Dean's List | Top 5%
+- 💼 **Experience:** Management Intern @ Times of India (analytics & market research) | Community Tutor (education outreach)
+- 🧠 **Interests:** Time-series forecasting · Applied NLP · MLOps · Business analytics · Causal inference · Responsible AI
+- 🛠️ **Tech Stack:** Python (pandas, NumPy, scikit-learn) · Jupyter · SQL · Tableau/Power BI · Git · PyTorch/TensorFlow
+- 📚 **Certifications:** Python & analytics specializations (Coursera & others)
+- 🏆 **Communication:** Public speaker · Essay & storytelling competition winner | **TOEFL: 108** (C2 level)
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech Stack & Impact |
+|---------|-------------|---------------------|
+| [**stock-forecasting**](https://github.com/ujaan-chatterjee/stock-forecasting) | Time-series prediction of stock price movements & short-term returns | Python · pandas · scikit-learn · ARIMA/Prophet · Tableau dashboards · Improved baseline performance |
+| [**titanic-analysis**](https://github.com/ujaan-chatterjee/titanic-analysis) | End-to-end ML classification: EDA → feature engineering → interpretable model | Python · scikit-learn · XGBoost · SHAP explainability |
+| [**ai-in-healthcare-survey**](https://github.com/ujaan-chatterjee/ai-in-healthcare-survey) | Research project combining survey data + regression analysis for actionable insights | Python · pandas · statsmodels · SPSS |
+| [**mlds-prep-projects**](https://github.com/ujaan-chatterjee/mlds-prep-projects) | Structured MS MLDS preparation: roadmap, starter projects, datasets | Roadmap · Jupyter notebooks · reproducible workflows |
+
+---
+
+## 🧭 Technical Skill Map
 
 ```
-Languages     : Python, SQL, C
-Data & ML     : pandas, NumPy, scikit-learn, statsmodels, XGBoost, basic PyTorch/TensorFlow
-Visualization : matplotlib, seaborn, Tableau, Power BI
-Engineering   : Git, Jupyter Notebooks, basic Bash
-Theory        : Linear Algebra, Probability, Statistics, Regression, Time-series
-Other         : Research methods, Survey analysis, Data storytelling
+💻 Languages             : Python, SQL, C
+📊 Data & ML             : pandas, NumPy, scikit-learn, statsmodels, XGBoost, PyTorch/TensorFlow
+📈 Visualization         : matplotlib, seaborn, Tableau, Power BI
+🔧 Engineering           : Git, Jupyter Notebooks, Bash
+📚 Theory                : Linear Algebra, Probability, Statistics, Regression, Time-series
+🎯 Specializations       : Research methods, Survey analysis, Data storytelling
 ```
 
-🧩 How I structure projects (what to expect in each repo)
+---
 
-1. **README** — problem statement, business context, dataset, quick results.
-2. **Data** or link to dataset (not always included due to licensing).
-3. **Notebooks** — clean, numbered; `00-data`, `01-eda`, `02-model`, `03-eval`.
-4. **requirements.txt** — exact libs to recreate environment.
-5. **/reports** — slide/pdf summary and a short “How to present this” one-pager.
-6. **LICENSE** — MIT (or user’s choice).
-7. **Roadmap** — what to improve next (hyperparam tuning, productionizing, adding CI).
+## 🧩 Project Structure
 
-🚀 How to run (local)
+Each repository follows this consistent template:
+
+1. **README** — Problem statement, business context, dataset, quick results
+2. **Data** — Links/references to datasets (when available)
+3. **Notebooks** — Clean, numbered sequence: `00-data`, `01-eda`, `02-model`, `03-eval`
+4. **requirements.txt** — Exact dependencies for reproducibility
+5. **/reports** — Summary slides/PDFs and presentation one-pagers
+6. **LICENSE** — MIT (or specified choice)
+7. **Roadmap** — Next improvements: hyperparameter tuning, productionization, CI/CD
+
+---
+
+## 🚀 How to Run (Local)
 
 ```bash
-# clone
-git clone https://github.com/ujaan-chatterjee/<repo-name>.git
-cd <repo-name>
+# Clone
+git clone https://github.com/ujaan-chatterjee/<repo>.git
+cd <repo>
 
-# create venv (python3.10+ recommended)
+# Create virtual environment (Python 3.10+ recommended)
 python -m venv .venv
-source .venv/bin/activate      # mac / linux
-.venv\Scripts\activate         # windows
+source .venv/bin/activate          # macOS/Linux
+# .venv\Scripts\activate            # Windows
 
-# install
+# Install dependencies
 pip install -r requirements.txt
 
-# run the main notebook
-jupyter lab      # then open notebooks in browser
-# or run core scripts
+# Run notebooks
+jupyter lab
+
+# Or run core scripts
 python src/train.py --config configs/default.yaml
 ```
 
-📈 Recent metrics & wins
+---
 
-* **TOEFL:** 106 (29R / 28L / 25S / 24W) — C2 proficiency-level English communication
-* **GRE:** 325 (170Q / 155V / AWA 4.0) — perfect quant signal for rigorous AI/ML/Data Science programs
-* **Academic honors:** Dean’s List, top 5% of cohort
-* **Impact:** Analytics-driven recommendations during Times of India internship; tutoring & mentoring reach of dozens of students over 1+ years.
+## 📊 Credentials & Achievements
 
-📅 Roadmap & what’s coming next
+- **TOEFL:** 106 (29R / 28L / 25S / 24W) — C2 proficiency English communication
+- **GRE:** 325 (170Q / 155V / AWA 4.0) — Perfect quant signal for rigorous AI/ML/Data Science programs
+- **Academic Honors:** Dean's List | Top 5% of cohort
+- **Impact:** Data-driven recommendations at Times of India | Mentored 50+ students over 1+ year
 
-1. **Capstone ML project** — end-to-end (data pipeline → model → dashboard → reproducible deployment).
-2. **NLP mini-series** — fine-tune transformer for a domain-specific extraction task.
-3. **MLOps basics** — containerize one key project and add CI/CD for model tests.
-4. **Publications / writeups** — blog posts & medium articles summarizing technical learnings.
+---
 
-🤝 Collaborate / Hire / Mentor
+## 📅 Roadmap & What's Next
 
-* Open to: short-term collaborations, mentorship, research assistance, and internship-level contributions.
-* If you’re a recruiter or researcher: DM on LinkedIn or email me: **[itsujaanchatterjee@gmail.com](mailto:itsujaanchatterjee.com)**.
+- ✅ Capstone ML project — end-to-end (pipeline → model → dashboard → deployment)
+- 🔜 NLP mini-series — fine-tune transformer for domain-specific extraction
+- 🔜 MLOps basics — containerize key project, add CI/CD for model testing
+- 🔜 Publications/Writeups — blog posts & Medium articles on technical learnings
 
-🧾 CV & Media
+---
 
-* Resume & transcript highlights are available on request — happy to share a tailored two-pager when connecting.
+## 🤝 Let's Connect
 
-🧰 Contribution & code of conduct
+**Open to:** Collaborations · Mentorship · Research assistance · Internship contributions
 
-* Contributions are welcome! If you'd like to contribute to a repo:
+**Get in touch:**
+- 📧 **Email:** [itsujaanchatterjee@gmail.com](mailto:itsujaanchatterjee@gmail.com)
+- 💼 **LinkedIn:** [Ujaan Chatterjee](https://www.linkedin.com/in/ujaan-chatterjee)
+- 📄 **Resume/Transcript:** Available on request — happy to share tailored materials when connecting
 
-  1. Fork → branch → PR with clear description.
-  2. Keep changes targeted and add tests where relevant.
-* Be respectful, inclusive, and collaborative. I follow the [Contributor Covenant code of conduct](https://www.contributor-covenant.org/) in spirit.
+---
 
-📬 Want to support the work?
+## 🧰 Contributing
 
-* Star the repos you find useful ⭐
-* Open an issue if something breaks or if you want a live demo
-* Share feedback — it helps me iterate faster
+Contributions are welcome! To contribute:
 
-✨ Final note
+1. **Fork** → **Branch** → **PR** with clear description
+2. Keep changes targeted and add tests where relevant
+3. Be respectful, inclusive, and collaborative
 
-I build with the pragmatic goal: **turn data into meaningful and impactful decisions**. This GitHub is the public record of that work — reproducible notebooks, clear writeups, and a focus on business impact. If anything here helps you learn, build, or ship — ping me.
+I follow the [Contributor Covenant](https://www.contributor-covenant.org/) code of conduct in spirit.
 
-— Ujaan S Chatterjee (ujaan-chatterjee)
+---
+
+## 📬 Support This Work
+
+- ⭐ Star repos you find useful
+- 🐛 Open an issue for bugs or feature requests
+- 💬 Share feedback — helps me iterate faster
+
+---
+
+## ✨ Final Note
+
+**Turn data into meaningful impact.** This GitHub is the public record of that mission — reproducible notebooks, clear writeups, and a focus on business value. If anything here helps you learn, build, or ship — let me know!
+
+---
+
+*Made with ❤️ by Ujaan S Chatterjee*
