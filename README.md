@@ -1,4 +1,4 @@
-# Ujaan Chatterjee — AI Trailblazer in Training
+# Ujaan Chatterjee — AI Trailblazer in the Making
 
 <div align="center">
 
@@ -15,20 +15,20 @@
 
 ## 👋 About Me
 
-I build **data-driven solutions** that bridge business sense with machine learning. Currently a final-year **BBA (Information Technology)** student at **Mittal School of Business, Lovely Professional University (LPU)** — Dean's List, topper of my cohort, and top 5% in the university. Preparing for a top-tier quant-heavy STEM grad program in the United States.
+I build **data-driven solutions** that bridge business sense with machine learning. Currently a final-year **Bachelor of Business Administration (Information Technology)** student at **Mittal School of Business, Lovely Professional University (LPU), Phagwara, Punjab** — Dean's Lister, topper of my cohort, and amongst the top 5% in the university. Preparing for a top-tier quant-heavy STEM grad program in the United States.
 
-This profile showcases the projects, experiments, and learning artifacts that demonstrate my technical growth and product thinking.
+This profile showcases all the projects, experiments, and learning artifacts that demonstrate my technical growth and product thinking.
 
 ---
 
 ## 🔍 Quick Facts
 
-- 🎓 **Education:** BBA (IT) — **Lovely Professional University** | CGPA: **9.18/10** (projecting 9.4–9.5) | Dean's List | Top 5%
-- 💼 **Experience:** Management Intern @ Times of India (analytics & market research) | Community Tutor (education outreach)
-- 🧠 **Interests:** Time-series forecasting · Applied NLP · MLOps · Business analytics · Causal inference · Responsible AI
-- 🛠️ **Tech Stack:** Python (pandas, NumPy, scikit-learn) · Jupyter · SQL · Tableau/Power BI · Git · PyTorch/TensorFlow
-- 📚 **Certifications:** Python & analytics specializations (Coursera & others)
-- 🏆 **Communication:** Public speaker · Essay & storytelling competition winner | **TOEFL: 108** (C2 level)
+- 🎓 **Education:** BBA (IT) — **Mittal School of Business, Lovely Professional University** | CGPA: **9.18/10** (projecting 9.4–9.5) | Dean's List | Top 5% in the university
+- 💼 **Experience:** Management Intern @ Times of India (research & market development) | Community Tutor (Paramananda Mission; education outreach)
+- 🧠 **Interests:** Time-series forecasting · Applied NLP · Business analytics · Statistical inference · Responsible AI
+- 🛠️ **Tech Stack:** Python (pandas, NumPy, scikit-learn) · Jupyter · SQL · Tableau/Power BI · Git · PyTorch · VS Code 
+- 📚 **Certifications:** Python & analytics specializations (Coursera and DataCamp) · Advanced English Communication (LinkedIn Learning) · Web Development Principles (LinkedIn Learning) · Prompt Engineering (DataCamp)
+- 🏆 **Communication:** Public speaker · Essay, Group Discussion & storytelling competition winner | **TOEFL: 106** (C2 level)
 
 ---
 
@@ -47,11 +47,11 @@ This profile showcases the projects, experiments, and learning artifacts that de
 ## 🧭 Technical Skill Map
 
 ```
-💻 Languages             : Python, SQL, C
+💻 Languages             : Python, SQL, C, C++
 📊 Data & ML             : pandas, NumPy, scikit-learn, statsmodels, XGBoost, PyTorch/TensorFlow
 📈 Visualization         : matplotlib, seaborn, Tableau, Power BI
-🔧 Engineering           : Git, Jupyter Notebooks, Bash
-📚 Theory                : Linear Algebra, Probability, Statistics, Regression, Time-series
+🔧 Engineering           : Git, Jupyter Notebooks
+📚 Theory                : Linear Algebra, Probability, Statistics, Regression, Time-series, Quantitative Research
 🎯 Specializations       : Research methods, Survey analysis, Data storytelling
 ```
 
@@ -100,7 +100,7 @@ python src/train.py --config configs/default.yaml
 - **TOEFL:** 106 (29R / 28L / 25S / 24W) — C2 proficiency English communication
 - **GRE:** 325 (170Q / 155V / AWA 4.0) — Perfect quant signal for rigorous AI/ML/Data Science programs
 - **Academic Honors:** Dean's List | Top 5% of cohort
-- **Impact:** Data-driven recommendations at Times of India | Mentored 50+ students over 1+ year
+- **Impact:** Data-driven marketing recommendations at Times of India (Bennett, Coleman & Co. Ltd.) | Mentored 50+ students over a period of 2 months
 
 ---
 
